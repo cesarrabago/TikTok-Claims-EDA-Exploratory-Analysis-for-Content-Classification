@@ -4,7 +4,7 @@
 > *claim vs. opinion* classification model. Carried out under the **PACE**
 > framework (Plan, Analyze, Construct, Execute).
 
-📄 **[Read the full notebook (PDF, 11 pages)](TIKTOK_PROJECT.pdf)**
+📄 **[Read the full analysis (PDF, 11 pages)](TIKTOK_PROJECT.pdf)**
 
 ---
 
@@ -13,7 +13,7 @@
 As part of the **Google Advanced Data Analytics Certificate** (Course 2 — Get
 Started with Python), I worked as a data analyst in a simulated TikTok scenario.
 Leadership approved the proposal to build a claims classification model, and
-this notebook delivers the first structured EDA that the later modeling work
+this analysis delivers the first structured EDA that the later modeling work
 builds on.
 
 ## Objectives
@@ -56,16 +56,8 @@ moderation strategy.
 
 ## Files
 
-- `tiktok_eda.ipynb` — Full notebook with code and commentary
-- [`Tiktok_Project.pdf`](Tiktok_Project.pdf) — PDF version of the notebook, for a
-  quick read without running it
-
-## How to run
-
-```bash
-pip install pandas numpy jupyter
-jupyter notebook tiktok_eda.ipynb
-```
+- [`TIKTOK_PROJECT.pdf`](TIKTOK_PROJECT.pdf) — Full analysis: code, output, and
+  commentary, exported from the notebook
 
 ---
 
