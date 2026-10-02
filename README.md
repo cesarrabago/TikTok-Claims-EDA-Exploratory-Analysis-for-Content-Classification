@@ -4,7 +4,7 @@
 > *claim vs. opinion* classification model. Carried out under the **PACE**
 > framework (Plan, Analyze, Construct, Execute).
 
-📄 **[Read the full notebook (PDF, 11 pages)](TITKTOK_PROJECT.pdf)**
+📄 **[Read the full notebook (PDF, 11 pages)](TIKTOK_PROJECT.pdf)**
 
 ---
 
